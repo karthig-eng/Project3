@@ -1,0 +1,21 @@
+body{
+  text-align:left;
+  
+}
+  #border
+  {
+ background-color:pink;
+ 
+}
+h1
+{
+  text-align:center;
+}
+#check
+{
+  padding:1em 3em 1em 4em
+}
+#padding {
+  padding:4em 2em 3em 7em;
+}
+
